@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxDemo", "LinuxDemo\LinuxDemo.csproj", "{385F7B26-B816-4A98-A5AF-6696D6057CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385F7B26-B816-4A98-A5AF-6696D6057CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385F7B26-B816-4A98-A5AF-6696D6057CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385F7B26-B816-4A98-A5AF-6696D6057CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385F7B26-B816-4A98-A5AF-6696D6057CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DEB04B-2D3F-417F-A9F5-22A8BE06CAD8}
+	EndGlobalSection
+EndGlobal
